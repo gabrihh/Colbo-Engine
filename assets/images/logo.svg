@@ -2,10 +2,10 @@
   <text x="0" y="120" font-family="Arial, sans-serif" font-size="80" fill="#4caf50" font-weight="700">
     COL
   </text>
-  <text x="275" y="80" font-family="Arial, sans-serif" font-size="60" fill="#4caf50" font-weight="600" transform="rotate(-90, 250, 120)">
+  <text x="275" y="75" font-family="Arial, sans-serif" font-size="60" fill="#4caf50" font-weight="600" transform="rotate(-90, 250, 120)">
     B
   </text>
-  <text x="245" y="80" font-family="Arial, sans-serif" font-size="60" fill="#4caf50" font-weight="600" transform="rotate(-90, 250, 120)">
+  <text x="245" y="75" font-family="Arial, sans-serif" font-size="60" fill="#4caf50" font-weight="600" transform="rotate(-90, 250, 120)">
     0
   </text>  
   <text x="210" y="95" font-family="Arial, sans-serif" font-size="40" fill="#000" font-weight="700" id="engine">
